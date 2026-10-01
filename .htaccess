@@ -1,0 +1,10 @@
+# Bloquea TODO acceso desde el navegador a esta carpeta
+# Apache 2.4+ (WAMP actual)
+<IfModule mod_authz_core.c>
+    Require all denied
+</IfModule>
+# Apache 2.2
+<IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+</IfModule>
