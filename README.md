@@ -35,6 +35,9 @@ TallerAspirantes/
     └── fotografías subidas
 ```
 
+<img width="297" height="247" alt="image" src="https://github.com/user-attachments/assets/0cd2803c-bd5f-49d2-aad4-bfae3831f953" />
+
+
 ### Archivos principales
 
 **index.php**
