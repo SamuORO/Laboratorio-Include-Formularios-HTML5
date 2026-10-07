@@ -55,6 +55,9 @@ El formulario utiliza el método `POST` y `multipart/form-data` para poder envia
 
 ---
 
+<img width="1395" height="867" alt="image" src="https://github.com/user-attachments/assets/74bf0fae-4116-41c1-8cf9-12719662c60e" />
+
+
 **header.php**
 
 Contiene la estructura inicial de la página, incluyendo:
@@ -69,6 +72,9 @@ Este archivo se incluye mediante `include` en las páginas que lo necesitan.
 
 ---
 
+<img width="1322" height="857" alt="image" src="https://github.com/user-attachments/assets/24884d3b-7108-41f5-bdbd-da404f1aa1d7" />
+
+
 **footer.php**
 
 Contiene el pie de página del proyecto y utiliza PHP para mostrar automáticamente el año actual:
@@ -76,6 +82,9 @@ Contiene el pie de página del proyecto y utiliza PHP para mostrar automáticame
 ```php
 <?php echo date('Y'); ?>
 ```
+
+<img width="847" height="442" alt="image" src="https://github.com/user-attachments/assets/e6324f66-da9b-414d-b054-77567496f15c" />
+
 
 ---
 
@@ -97,6 +106,9 @@ Entre sus funciones se encuentran:
 
 ---
 
+<img width="1207" height="702" alt="image" src="https://github.com/user-attachments/assets/84a79678-7769-456e-9b56-a6eaee568364" />
+
+
 **uploaded_files/**
 
 Esta carpeta almacena las fotografías que son subidas mediante el formulario.
@@ -104,6 +116,9 @@ Esta carpeta almacena las fotografías que son subidas mediante el formulario.
 También contiene un archivo `.htaccess` para evitar que los archivos puedan ser accedidos directamente desde el navegador.
 
 ---
+
+<img width="607" height="243" alt="image" src="https://github.com/user-attachments/assets/07bab754-b25e-4047-9b66-e66ef0f63ef8" />
+
 
 ## Validación y saneamiento de datos
 
