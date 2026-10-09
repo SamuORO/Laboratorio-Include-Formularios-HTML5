@@ -15,7 +15,6 @@ El proyecto fue desarrollado como parte de un laboratorio para practicar el uso 
 * **PHP** - Procesamiento del formulario y validación de datos.
 * **HTML5** - Estructura de las páginas.
 * **Bootstrap 5** - Diseño y estilos de la interfaz.
-* **Apache** - Servidor web utilizado mediante WAMP.
 * **WAMP** - Entorno de desarrollo local.
 
 ---
@@ -252,26 +251,6 @@ Si la edad no está entre 18 y 70 años, el sistema muestra un mensaje de error 
 
 ---
 
-## Instalación
-
-Para ejecutar el proyecto localmente se necesita tener instalado WAMP.
-
-El proyecto debe colocarse dentro de la carpeta:
-
-```text
-C:\wamp64\www\
-```
-
-Por ejemplo:
-
-```text
-C:\wamp64\www\TallerAspirantes
-```
-
-Después se deben iniciar los servicios de **Apache** desde WAMP y acceder al proyecto mediante el navegador.
-
----
-
 ## Objetivo del proyecto
 
 El objetivo principal es practicar la creación de un formulario web utilizando PHP y HTML5, aplicando validaciones, saneamiento de información, manejo de archivos y conceptos básicos de seguridad.
@@ -280,5 +259,5 @@ También se busca aplicar una estructura modular mediante archivos `include` y u
 
 
 ## Creador del proyecto
-Samuel Orocú 8-1039-1344
+Samuel Orocú
 Grupo 1S3122
